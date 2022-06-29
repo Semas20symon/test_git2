@@ -4,3 +4,4 @@ print(sum(some_range))
 'add one more text'
 'Add one more text'
 'add less'
+'очень срочно дописываем'
