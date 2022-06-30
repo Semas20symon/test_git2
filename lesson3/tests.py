@@ -1,4 +1,5 @@
-some_range =list(range(20000))
-print(sum(some_range))
-#some checkout
+#Удаление восклицательного знака из строки
+def remove_exclamation_mark(some_str):
+    return some_str.replace("!","")
+print(remove_exclamation_mark('MY!!! STRING!!!'))
 
